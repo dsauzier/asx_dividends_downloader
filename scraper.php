@@ -1,4 +1,5 @@
 <?php
+require 'scraperwiki.php';
 ######################################
 # ASX Dividends downloads
 # Written by: S3than
