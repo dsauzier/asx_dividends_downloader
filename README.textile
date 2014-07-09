@@ -1,0 +1,5 @@
+h2. Fetch ASX dividends from the "ASX":http://www.asx.com.au website
+
+Scraper obtains details of released dividends from the asx website for all codes in the asx market.
+
+Ignores results that include no dividends
